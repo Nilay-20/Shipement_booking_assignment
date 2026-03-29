@@ -1,0 +1,9 @@
+Company,Last Booking Date,Avg Gap (days),Predicted Next Date,Predicted Shipment Type,Type Confidence (%),Alt Shipment Type,Alt Confidence (%),Total Bookings
+BlueDart,2025-12-31,1.2,2026-01-01,Surface,44.1,Air,29.1,31636
+DHL Express,2025-12-31,2.39,2026-01-02,Surface,44.8,Air,31.5,2747
+DTDC,2025-12-31,1.29,2026-01-01,Surface,43.0,Air,32.2,20576
+Delhivery,2025-12-31,1.42,2026-01-01,Surface,45.3,Air,29.0,33454
+Ecom Express,2025-12-31,1.45,2026-01-01,Surface,43.2,Air,30.9,12610
+FedEx India,2025-12-26,2.46,2025-12-28,Surface,41.0,Air,34.6,5415
+Shadowfax,2025-12-30,2.72,2026-01-02,Surface,47.8,Air,27.8,5816
+XpressBees,2025-12-31,1.63,2026-01-02,Surface,44.3,Air,30.7,16566
